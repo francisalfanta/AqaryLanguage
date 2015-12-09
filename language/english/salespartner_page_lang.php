@@ -6,6 +6,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 //content
+$lang['salespartner_main_title']          = 'Become a Sales Partner';
 $lang['salespartner_main_desc']   		  = 'Get all you need to grow your business and deliver quality services with Hosting Castle Partner Program.';
 
 //inside box content
