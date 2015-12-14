@@ -5,75 +5,84 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['crm_sidelink_title'] = 'CRM Real Estate';
-$lang['about_aqary']		= 'About Aqary';
-$lang['aqary_sidelink_pricelist'] = 'Price list';
-$lang['aqary_sidelink_knowledgebase'] = 'Knowledgebase';
-$lang['aqary_sidelink_latestnews'] = 'Latest News';
+$lang['crm_sidelink_title'] = 'إدارة التعاملات العقارية';
+$lang['about_aqary']		= 'عن عقارى';
+$lang['aqary_sidelink_pricelist'] = 'قائمة الأسعار';
+$lang['aqary_sidelink_knowledgebase'] = 'قاعدة المعرفة';
+$lang['aqary_sidelink_latestnews'] = 'أحدث الأخبار';
 
-$lang['crm_for_sidelink_title'] = 'CRM For Real Estate';
-$lang['crm_for_sidelink_descr'] = 'Manage your real estate business in a centralized platform. With great tools and useful features of Aqary you can operate your property business effeciently and effectively.';
+$lang['crm_for_sidelink_title'] = 'إدارة تعاملات العقارات';
+$lang['crm_for_sidelink_descr'] = 'قم بإدارة أعمال عقاراتك من منصة مركزية .باستخدام أدوات رائعة ومميزات فريدة من عقارى يمكنك تسيير أعمالك بكفاءة وفعالية.';
 
 //tags
-$lang['tags']				= 'Tags';
-$lang['real_estate']		= 'Real Estate';
-$lang['property_management']= 'Property Management';
-$lang['leads']				= 'Leads';
-$lang['apartment']			= 'Apartment';
-$lang['villa']				= 'Villa';
-$lang['listing']			= 'Listing';
+$lang['tags']				= 'الفئات';
+$lang['real_estate']		= 'العقارات';
+$lang['property_management']= 'إدارة الملكيات الخاصة';
+$lang['leads']				= 'القيادات';
+$lang['apartment']			= 'شقق';
+$lang['villa']				= 'فيلات';
+$lang['listing']			= 'تسجيل';
 
 //tabs -product overview
-$lang['aqary_product_overview']   = 'Product Overview';
-$lang['aqary_product_overview_title'] = 'Aqary Real Estate CRM';
-$lang['aqary_product_overview_descr'] = '<p>We do not just build CRM systems-we are helping companies just like yours grow profitably. AQARY CRM is the most complete and easy-to-use real estate CRM software in the real estate industry. We make it easy to maximize lead generation and manage to shorten sales cycles, close more deals and increase revenue, all while delivering exceptional customer service.</p>
-							             <p>Aqary has helpful features that will make your property business very light to manage. Filters for searching units on your listings to instantly find what you are looking for is made efficiently useful by the system to save time. Payments and transactions records are well kept and secured. Aqary has also a dedicated storage for important documents and images or any uploads. Calendar and SMS alerts for reminders and newsletter are also some of the many key assets of the system.</p>
-							             <p>If you want to discover more of this product, register now for our free trial.</p>';
+$lang['aqary_product_overview']   = 'نظرة على المنتج';
+$lang['aqary_product_overview_title'] = 'إدارة العقارات من عقارى';
+$lang['aqary_product_overview_descr'] = '<p>قم بإدارة أعمال عقاراتك من منصة مركزية .باستخدام أدوات رائعة ومميزات فريدة من عقارى يمكنك تسيير أعمالك بكفاءة وفعالية.نحن لا نقوم بمجرد بناء أنظمة إدارية بل نساعد
+الشركات مثل شركتكم أن تنمو بشكل مربح. 
+نظام إدارة العقارات من عقارى هو الأكثر كفاءة وسهولة فى الاستخدام بين كل
+نظم إدارة العقارات في قطاع العقارات.
+نحن نجعل من السهل تحقيق أقصى قدر من الريادة و تقصير دورات المبيعات، نعمل على جلب المزيد من الصفقات وزيادة الإيرادات، كل هذا من خلال خدمة العملاء الاستثنائية.
+</p>
+							             <p>عقارى لديها ميزات فريدة تسهل من إدارة ممتلكاتك الخاصة، توجد مرشحات ذات كفاءة عالية لتوفير الوقت وتسهيل العثور الفورى على ما تبحث عنه فى قوائم الوحدات. يتم الاحتفاظ بسجلات المدفوعات والمعاملات وتأمينها. عقارى لديها أيضا
+مخازن مخصصة للوثائق الهامة والصور وغيرها.  التقويم والرسائل النصية التذكيرية والنشرات الإخبارية هى جزء من الكثير من المميزات الرئيسية للنظام.
+</p>
+							             <p>إذا كنت ترغب في معرفة المزيد عن هذا المنتج، فقم بالتسجيل الآن من خلال نسخة التجربة المجانية لدينا.</p>';
 
  
 
 //tabs-Features
-$lang['features']	       		 = 'Features';
-$lang['fea_listings']	   		 = 'Listings';
-$lang['fea_listings_descr'] 	 = 'Manage and sort out your units for sale and lease quicker.';
-$lang['fea_contacts']	   		 = 'Contacts';
-$lang['fea_contacts_descr'] 	 = 'Track records or details of your contacts in one place.';
-$lang['fea_generate_report']	 = 'Generate Report';
-$lang['fea_generate_report_descr'] = 'In just one click you can produce reports and download essential information quickly.';
-$lang['fea_sms_alerts']			 = 'SMS Alerts';
-$lang['fea_sms_alert_descr']     = 'Send your contacts and agents reminders and news anytime through SMS.';
-$lang['fea_calender']		     = 'Calendar';
-$lang['fea_calender_descr']      = 'Don�t miss important events. Post your work, activity and meeting schedule on the calendar.';
-$lang['fea_security']			 = 'Security';
-$lang['fea_security_descr']   	 = 'Restrict users to see only assigned contacts and properties.';
-$lang['fea_doc_media_sorage']    = 'Document and Media Storage';
-$lang['fea_doc_media_sorage_decsr'] = 'Upload images and other documents and keep it linked to the listing record for easy access to your files for later use.';
-$lang['fea_trans_payment']       = 'Transaction and Payment';
-$lang['fea_trans_payment_decsr'] = 'Keep track of the payments and account transaction details from one centralized platform.';
-$lang['fea_email_marketing']	 = 'Email Marketing';
-$lang['fea_email_marketing_decsr'] = 'Manage your email list and send newsletter or campaigns to your contacts.';
+$lang['features']	       		 = 'المميزات';
+$lang['fea_listings']	   		 = 'القوائم';
+$lang['fea_listings_descr'] 	 = 'قم بأدارة وفرز وحداتك الخاصة للبيع والإيجار بصورة أسرع';
+$lang['fea_contacts']	   		 = 'جهات الإتصال';
+$lang['fea_contacts_descr'] 	 = 'تابع سجلات وتفاصيل جهات الاتصال الخاصة بك فى مكان واحد';
+$lang['fea_generate_report']	 = 'إنشاء تقرير';
+$lang['fea_generate_report_descr'] = 'بنقرة واحدة يمكنك الحصول على التقارير والمعلومات الضرورية بسرعة.';
+$lang['fea_sms_alerts']			 = 'الرسائل النصية';
+$lang['fea_sms_alert_descr']     = 'أرسل الاخبار والتذكيرات لجهات اتصالك ووكلائك عبر الرسائل النصية فى أى وقت';
+$lang['fea_calender']		     = 'المفكرة';
+$lang['fea_calender_descr']      = 'لا تفوت الاحداث الهامة ، قم بوضع نشاطاتك وجدول أعمالك واجتماعاتك فى المفكرة';
+$lang['fea_security']			 = 'الأمان';
+$lang['fea_security_descr']   	 = 'قيد المستخدمين برؤية جهات اتصال وسمات معينة فقط';
+$lang['fea_doc_media_sorage']    = 'تخزين الوسائط والملفات';
+$lang['fea_doc_media_sorage_decsr'] = 'قم برفع الصور والوثائق واربطها بسجلات القوائم لسهولة العثور عليها لاحقا.';
+$lang['fea_trans_payment']       = 'المعاملات المالية والدفع';
+$lang['fea_trans_payment_decsr'] = 'تتبع معاملاتك ومدفوعاتك من منصة مركزية واحدة.';
+$lang['fea_email_marketing']	 = 'التسويق الإلكترونى';
+$lang['fea_email_marketing_decsr'] = 'قم بإدارة بريدك الإلكترونى وأرسل الأخبار او الحملات لجهات الاتصال الخاصة بك';
 
 //tabs-Live preview
-$lang['live_preview']			= 'Live Preview';
-$lang['live_preview_title']		= 'Aqary CRM Demo';
+$lang['live_preview']			= 'معاينة مباشرة';
+$lang['live_preview_title']		= 'عرض نظام عقارى لإدارة العقارات';
 //tabs-themes
-$lang['themes']					= 'Themes'; 
+$lang['themes']				= 'طرق العرض'; 
 
 //themes-free themes
-$lang['free_themes_title']		= 'Free Themes';
-$lang['realia_descr']  			= 'With Realia users are able to manage their own listings without accessing admin dashboard. Theme is quite scalable and you can use it for large real estate portals or small agencies in just few clicks.';
-$lang['realsite_descr']         = 'Realsite is advanced real estate WordPress theme. It is a result of years of development in real estate industry. Theme is completely covering needs of real estate agencies or portals.';
-$lang['top_producer_descr']		= 'This theme has many options for customization, but not too many where it is overwhelming.';
+$lang['free_themes_title']		= 'وسيلة عرض مجانية';
+$lang['realia_descr']  			= 'مع  Realia يمكن للمستخدمين إدارة القوائم خاصة بهم دون
+الدخول الى منصة الإدارة. الأمر بسيط جدا ويمكن استخدامه لبوابات عقارية كبيرة أو وكالات صغيرة عبر نقرات قليلة فقط.
+';
+$lang['realsite_descr']         = 'RealSite  هى طريقة عرض متطورة للعقارات. فهى نتاج سنوات من التطوير فى مجال العقارات. وهذه الطريقة تغطي  تماما احتياجات البوابات و الوكالات العقارية.';
+$lang['top_producer_descr']		= 'طريقة العرض هذه لها خيارت تعديل متعددة ولكنها ليست كثيرة جدا حتى لا تختل';
 
 //themes-Premium themes
-$lang['premium_themes_title']	= 'Premium Themes';
-$lang['quick_sale'] 			= 'This theme is crafted both for real estate agencies and property owners. For sale by owner trend get�s more popular nowadays and this professional real estate theme is specially crafted for such websites. You can use it to sell single property object or modify it as a corporate page for real estate agency. We are sure that the theme will go beyond the scopes of your initial expectations and provide more features than you could imagine.';
-$lang['reales_wp']				= 'This theme is modern, clean, intuitive, and fully responsive design, that looks perfect on any size tablet or mobile screen.';
-$lang['home_town']				= 'This theme has elegant & clean design and comes with lots of features like property search, property slider, property map with stylish markers, front end user login & register, front end property submit & edit, payment integration with PayPal, dsIDXpress IDX Plugin support, WPML plugin support, custom widgets, various templates, well designed theme options & meta-box, Google reCAPTCHA support and much more �';
-$lang['solus_reales']			= 'This theme is optimized for high resolution displays like the Macbook Pro with Retina Display, iPhones and iPads. Built using HTML5 Boilerplate for a fast, robust and future-proof site!';
-$lang['home_land']				= 'A great looking and user friendly design for portraying a professional image to your visitors and potential clients. Perfect solution for professionals and agencies working in the Real Estate domain. It expands its reach to more targeted audience and brings in more profits.';
-$lang['real_expert']			= 'It has nice, clean, minimal design and fully responsive. It comes with lots of features like: dsIDxpress plugin integration, advanced property search, default and grid listing, property slider content, property metaboxes, custom widgets, various page templates, theme options, unlimited colors, unlimited fonts and tons more.';
+$lang['premium_themes_title']	= 'وسيلة عرض استثنائية';
+$lang['quick_sale'] 			= 'صممت وسيلة العرض هذه لكل من الوكالات العقارية وملاك العقارات. البيع من قبل المالك هوالأكثر انتشارا شعبية في الوقت الحاضر، وضعت وسيلة العرض العقارات هذه خصيصا لمثل هذه المواقع. يمكنك استخدامها لبيع خصوصية واحدة أو تعديلها كصفحة لوكالة عقارات. نحن على يقين من أن وسيلة العرض سوف تتجاوز نطاق توقعاتك الأولية وتوفر عدة مميزات أكثر مما كنت تتصور.';
+$lang['reales_wp']				= 'وسيلة العرض هذه حديثة ونقية وبديهية، وذات تصميم متجاوب، و تبدو مثالية في أي حجم تابلت أو شاشة هاتف جوال.';
+$lang['home_town']				= 'وسيلة العرض هذه لها تصميم أنيق ونقى و يأتي مع الكثير من المميزات مثل البحث عن الممتلكات، استعراض الممتلكات، خريطة الملكيات الأنيقة، الواجهة الأمامية لتسجيل دخول المستخدم والاشتراك ، تعديل واجهة الممتلكات المعروضة، الدفع عن طريق Paypal، دعم dsIDXpress IDX ، دعم برنامج WPML ، إضافات قابلة للتعديل، قوالب مختلفة، خيارات مصممة جيدا لوسائل العرض ، ودعم اختبار جوجل reCAPTCHA وأكثر من ذلك بكثير ...';
+$lang['solus_reales']			= 'تم تحسين وسيلة العرض هذه لتوفرالدقة العالية لأجهزة مثل Pro Macbook مع عرض شبكية العين، وأجهزة آي باد وآى فون . وبنيت باستخدام HTML5 لتوفر موقع سريع وقوي ومواكب لتطورات المستقبل!';
+$lang['home_land']				= 'التصميم رائع وسهل الاستخدام لتصوير صورة محترفة للزوار والعملاء . الحل الأمثل للمهنيين والوكالات العاملة في مجال العقارات.  إنها توسع نطاق أعمالها لاستهداف جمهور أكثر وجلب المزيد من الأرباح.';
+$lang['real_expert']			= 'لديها تصميم لطيف، نقى، بسيط ومتجاوب بشكل كامل.  ويأتي مع الكثير من المميزات مثل:   إضافة dsIDxpress  ، خاصية البحث المتقدم، عرض القوائم الشبكية، استعراض  الممتلكات، ،إضافات قابلة للتعديل، قوالب الصفحات المتنوعة، خيارات وسائل العرض ،  كمية ألوان وخطوط غير محدودة والمزيد.';
 
 //tab-order now
-$lang['order_now']				= 'Order Now';
-$lang['order_now_title']        = 'Orders';
+$lang['order_now']				= 'اطلب الآن';
+$lang['order_now_title']        = 'الطلبات';

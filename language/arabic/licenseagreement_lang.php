@@ -5,205 +5,51 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['license_main_content'] = 'This Software License is made by (Hosting Castle Web Design LLC), (office #1806,
-
-                                Marina Plaza, Dubai Marina, UAE), to the Customer as an essential element of the 
-
-                                services to be rendered by (Hosting Castle Web Design LLC) as defined in the 
-
-                                system specification and any associated documents and agreement. System shall mean 
-
-                                the deliverable product as defined in these documents.
+$lang['license_main_content'] = 'ترخيص هذه البرمجيات مقدم من (قلعة الإستضافة لتصميم المواقع LLC ) (مكتب رقم 1806، مارينا بلازا ، مارينا دبى ، دولة الإمارات) إلى العميل كعنص أساسى من الخدمات التى ستقدمها (قلعة الإستضافة لتصميم المواقع LLC ) على النحو المحدد فى مواصفات النظام والاتفاقيات والوثائق المرتبطة بها. يجب على النظام تسليم المنتج على وفقا للمعايير المحددة فى هذه الوثائق.
                                 <br>
                                 <br>
-                                Customer and (Hosting Castle Web Design LLC) agree that this Software License is 
-
-                                deemed to be part of, and subject to, the terms of the Agreement applicable to both 
-
-                                parties.';
                                 
-//License agreement section 1
-
-$lang['license_section1_title']   = 'SECTION 1: LICENSE GRANT AND OWNERSHIP';
-$lang['license_section1_para1']   = '(Hosting Castle Web Design LLC) hereby grants to Customer a worldwide, 
-
-                                perpetual, non-exclusive, non-transferable license to all software for Customer’s 
-
-                                use in connection with the establishment, use, maintenance and modification of 
-
-                                the system implemented by (Hosting Castle Web Design LLC). Software shall 
-
-                                mean executable object code of software programs and the patches, scripts, 
-
-                                modifications, enhancements, designs, concepts or other materials that 
-
-                                constitute the software programs necessary for the proper function and operation 
-
-                                of the system as delivered by the (Hosting Castle Web Design LLC) and 
-
-                                accepted by the Customer.' ;
+                                يتفق العملاء و(قلعة الإستضافة لتصميم المواقع LLC ) على أن ترخيص البرنامج يعتبر جزءا من الاتفاقية ويخضع للشروط والأحكام المطبقة على كلا الطرفين.';
                                 
-$lang['license_section1_para2']  = 'Except as expressly set forth in this paragraph, (Hosting Castle Web Design 
+///License agreement section 1
 
-                                LLC) shall at all times own all intellectual property rights in the software. Any 
-
-                                and all licenses, product warranties or service contracts provided by third parties 
-
-                                in connection with any software, hardware or other software or services 
-
-                                provided in the system shall be delivered to Customer for the sole benefit of 
-
-                                Customer.' ;
+$lang['license_section1_title']   = 'قسم 1: منح الرخصة والملكية';
+$lang['license_section1_para1']   = 'يضمن (قلعة الإستضافة لتصميم المواقع LLC ) بموجبه إلى العملاء فى كل انحاء العالم رخصة دائمة وحصرية وغير قابلة للتحويل لجميع البرمجيات التى يستخدمها العملاء المتعلقة بإنشاء وصيانة وتعديل الأنظمة التى تنفذها (قلعة الإستضافة لتصميم المواقع LLC ).
+يجب أن يتضمن البرنامج الأكواد القابلة للتنفيذ ونصوص التفعيل والتعديلات والتحسينات والتصاميم والمفاهيم وغيرها من المواد التى تلزم البرنامج ليؤدى وظيفته الكاملة عند تسليمه من قبل (قلعة الإستضافة لتصميم المواقع LLC ) وقبوله من العميل.
+' ;
+ $lang['license_section1_para2']  = 'باستثناء المشار إليه فى هذه الفقرة، فيجب أن تملك (قلعة الإستضافة لتصميم المواقع LLC ) فى كل الأوقات حقوق الملكية الفكرية للبرنامج. يجب عند تسليم أى من أو كل التراخيص و ضمانات المنتج وعقود الخدمة المقدمة من أى طرف ثالث والمتعلقة بأى من البرمجيات أو المكونات أو الخدمات الأخرى للعميل أن تكون لفائدته الخاصة فقط.' ;
 
 
-$lang['license_section1_para3']   = 'Customer may supply to (Hosting Castle Web Design LLC) or allow the 
-
-                                (Hosting Castle Web Design LLC) to use certain proprietary information, 
-
-                                including service marks, logos, graphics, software, documents and business 
-
-                                information and plans that have been authored or pre-owned by Customer. All 
-
-                                such intellectual property shall remain the exclusive property of Customer and 
-
-                                shall not be used by (Hosting Castle Web Design LLC) for any purposes other 
-
-                                than those associated with delivery of the system.';
+$lang['license_section1_para3']   = 'يجب على العميل أن يمد أو يسمح ل( قلعة الإستضافة لتصميم المواقع LLC ) باستخدام بعض المعلومات السرية بما فى ذلك العلامات التجارية والشعارات والرسومات والبرمجيات والوثائق والمعلومات التجارية والخطط التى تم وضعها ومملوكة من قبل العملاء. وتبقى كل هذه المعلومات ملكية حصرية للعملاء ولا يجوز استخدامها من قبل ( قلعة الإستضافة لتصميم المواقع LLC ) فى اى أغراض اخرى غير متعلقة بتسليم النظام المطلوب.';
                                 
 //License agreement section 2
-$lang['license_section2_title']   = 'SECTION 2: COPIES, MODIFICATION, AND USE';
-$lang['license_section2_para1']   = 'Customer may make copies of the software for archival purposes and as 
-
-                                required for modifications to the system. All copies and distribution of the 
-
-                                software shall remain within the direct control of Customer and its 
-
-                                representatives.';
-$lang['license_section2_para2']   = 'Customer may make modifications to the source code version of the software, if 
-
-                                and only if the results of all such modifications are applied solely to the system. 
-
-                                In no way does this Software License confer any right in Customer to license, 
-
-                                sublicense, sell, or otherwise authorize the use of the software, whether in 
-
-                                executable form, source code or otherwise, by any third parties, except in 
-
-                                connection with the use of the system as part of Customer’s business.';
-$lang['license_section2_para3']   = 'All express or implied warranties relating to the software shall be deemed null 
-
-                                and void in case of any modification to the software made by any party other 
-
-                                than (Hosting Castle Web Design LLC).';
+$lang['license_section2_title']   = 'قسم 2: النسخ، والتعديل، والاستخدام';
+$lang['license_section2_para1']   = 'يجوز للعميل الحصول على نسخ من البرنامج لأغراض الأرشفة وإجراء تعديلات على النظام. يجب أن تظل جميع نسخ وتوزيع البرنامج ضمن السيطرة المباشرة من العملاء وممثليهم.';
+$lang['license_section2_para2']   = 'يجوز للعميل إجراء تعديلات على نسخة المصدر من البرنامج فى حالة واحدة وفقط إذا تم تطبيق جميع نتائج هذه التعديلات على النظام فقط.
+لا يمنح هذا الترخيص أى حق للعميل فى إعادة ترخيص وبيع المنتج أو السماح باستخدام البرنامج سواء فى نسخة المصدر أو شكله النهائى من قبل أى طرف ثالث إلا فى الحالة المتعلقة باستخدام النظام كجزء من أعمال العميل.
+';
+$lang['license_section2_para3']   = 'تعتبر كل الضمانات الصريحة والضمنية المتعلقة بالبرنامج ملغية وباطلة فى حال حدوث أى تعديل على البرامج من قبل طرف ثالث غير ( قلعة الإستضافة لتصميم المواقع LLC ).';
                                 
 //License agreement section 3
-$lang['license_section3_title']   = 'SECTION 3: WARRANTIES AND REPRESENTATIONS';
-$lang['license_section3_para1']   = 'It has all necessary rights and authority to execute and deliver this Software 
-
-                                License and perform its obligations hereunder and to grant the rights granted 
-
-                                under this Software License to Customer.';
-$lang['license_section3_para2']   = 'The goods and services provided by contractor under this Software License,
-
-                                including the software and all intellectual property provided hereunder, are 
-
-                                original to (Hosting Castle Web Design LLC) or its subcontractors or 
-
-                                partners.';
-$lang['license_section3_para3']   =  'The software, as delivered as part of the system, will not infringe or otherwise
-
-                                violate the rights of any third party, or violate any applicable law, rule or 
-
-                                regulation.';
-$lang['license_section3_para4']   = '(Hosting Castle Web Design LLC) further represents and warrants that,
-
-                                throughout the System Warranty Period, the executable object code of software 
-
-                                and the system will perform substantially in accordance with the System 
-
-                                Specifications and Agreement. If the software fails to perform as specified and 
-
-                                accepted all remedies are pursuant to the policies set forth in the Specification 
-
-                                and in the Agreement. No warranty of any type or nature is provided for the 
-
-                                source code version of the software which is delivered as is.';
-$lang['license_section3_para5']  = 'Except as expressly stated in this Agreement, there are no warranties, express
-
-                                or implied, including, but not limited to, the implied warranties of fitness for a 
-
-                                particular purpose, of merchantability, or warranty of no infringement of third 
-
-                                party intellectual property rights.';
+$lang['license_section3_title']   = 'قسم 3: الضمانات والكفالات';
+$lang['license_section3_para1']   = 'تشمل جميع الحقوق والصلاحيات اللازمة لتفعيل وتسليم ترخيص هذا البرنامج وأداء الإلتزامات بموجب هذه الإتفاقية وإعطاء الحقوق الممنوحة للعملاء بموجب ترخيص هذه البرنامج.';
+$lang['license_section3_para2']   = 'المنتجات والخدمات التى يقدمها المتعاقد بموجب ترخيص البرنامج بما في ذلك البرمجيات وحقوق الملكية الفكرية المنصوص عليها هى حقوق أصيلة ل ( قلعة الإستضافة لتصميم المواقع LLC ) أو تابعيها وشركائها.';
+$lang['license_section3_para3']   =  'هذا البرنامج كجزء من النظام لا ينتهك او يتعدى على حقوق أى طرف ثالث ولا يخالف القوانين والقواعد النظامية.';
+$lang['license_section3_para4']   = 'تضمن ( قلعة الإستضافة لتصميم المواقع LLC ) أنه خلال وقت ضمان النظام والبرنامج، فإن النظام سوف يعمل بشكل كبير وفقا للمواصفات والاتفاقيات. وفى حالة فشل البرنامج فى أداء مهامه على النحو المحدد سوف تقدم جميع وسائل الصيانة وفقا للسياسات والمواصفات المنصوص عليها. لا يتم تقديم ضمان من أى نوع أو طبيعة لإصدار كود المصدر للبرنامج والذى يتم تسليمه كما هو.';
+$lang['license_section3_para5']  = 'باستثناء ما هو منصوص عليه صراحة فى هذه الإتفاق فلا توجد ضمانات صريحة أو ضمنية، على سبيل الذكر وليس الحصر، الضمانات الضمنية لملائمة غرض معين أو للتسويق أو ضمان عدم التعدى على حقوق الملكية الفكرية لأى طرف ثالث.';
 //License agreement section 4
-$lang['license_section4_title']  = 'SECTION 4: INDEMNIFICATION';
-$lang['license_section4_para1']  = '(Hosting Castle Web Design LLC) hereby indemnifies and shall defend and 
-
-                                hold harmless Customer, its parent companies and its and their subsidiaries, 
-
-                                affiliates, officers, directors, employees, agents and subcontractors from and 
-
-                                against all liability, damages, loss, cost or expense, including but not limited to 
-
-                                reasonable attorneys’ fees and expenses, arising out of or in connection with any 
-
-                                breach or alleged breach of the Agreement or any third party claims that the 
-
-                                software or system here provided by (Hosting Castle Web Design LLC) 
-
-                                infringes or otherwise violates any rights of any such third party.';
-$lang['license_section4_para2']  = 'Customer hereby indemnifies and shall defend and hold harmless (Hosting 
-
-                                Castle Web Design LLC), its and their subsidiaries, affiliates, officers, 
-
-                                directors, employees, agents and subcontractors from and against all liability, 
-
-                                damages, loss, cost or expense, including but not limited to reasonable 
-
-                                attorneys’ fees and expenses, arising out of or in connection with any third party 
-
-                                claims that Customer’s use of the software in contravention of the grant of rights 
-
-                                infringes or otherwise violates any rights of any such third party.';
-$lang['license_section4_para3']   = 'Upon the assertion of any claim or the commencement of any suit or proceeding
-
-                                against an indemnitee by any third party that may give rise to liability of an 
-
-                                indemnitor hereunder, the indemnitee shall promptly notify the indemnitor of 
-
-                                the existence of such a claim and shall give the indemnitor reasonable 
-
-                                opportunity to defend and to settle the claim at its own expense and with 
-
-                                counsel of its own selection. The indemnitee shall cooperate with the 
-
-                                indemnitor, shall at all times have the right full to participate in such a defense at 
-
-                                its own expense and shall not be obligated, against its consent, to participate in 
-
-                                any settlement which it reasonably believes would have an adverse effect on its 
-
-                                business.';
+$lang['license_section4_title']  = 'قسم 4: التعويضات';
+$lang['license_section4_para1']  = 'يجب على ( قلعة الإستضافة لتصميم المواقع LLC ) الدفاع عن وتعويض العملاء المتضررين وإبراء ذمة الشركة الأم والشركات التابعة لها والمدراء والوكلاء والموظفين والمتعاقدين معها من وضد كل مسئولية أو خسائر أو تكاليف أو مصاريف بما فى ذلك على سبيل الذكر وليس الحصر أتعاب المحاماة الناتجة او المتعلقة بأى خرق او انتهاك مزعوم للإتفاق او أى طرف ثالث يدعى أن البرنامج والنظام المقدم من ( قلعة الإستضافة لتصميم المواقع LLC ) ينتهك أى حق من حقوق أطراف أخرى.';
+$lang['license_section4_para2']  = 'يجب على العميل الدفاع وتعويض وإبراء ذمة ( قلعة الإستضافة لتصميم المواقع LLC ) والشركات التابعة لها والمدراء والوكلاء والموظفين والمتعاقدين معها من وضد كل مسئولية أو خسائر أو تكاليف أو مصاريف بما فى ذلك على سبيل الذكر وليس الحصر أتعاب المحاماة الناتجة او المتعلقة بأى طرف ثالث يدعى أن استخدام العميل للبرنامج والنظام ينتهك أى حق من حقوق أطراف أخرى.';
+$lang['license_section4_para3']   = 'فى حالة المطالبة أو رفع دعوى أو اتخاذ إجراءات من قبل أى طرف ثالث ضد متلقى التعويض هذا قد يستدعى مسئولية المعوض ويجب على متلقى التعويض إخطار المعوض على الفور بوجود هذه المطالبات ومنح المعوض فرصة للدفاع وتسوية المطالبات على نفقته الخاصة من خلال محاميه. يجب على متلقى التعويض التعاون مع المعوض فى كل الأحوال ويكون له الحق الكامل فى المشاركة فى الدفاع على نفقته الخاصة ولكن هذا غير ملزم فى حالة عدم موافقته على المشاركة فى التسوية التى ربما قد تؤثر على أعماله بشكل سلبى.';
 //License agreement section 5
-$lang['license_section5_title']  = 'SECTION 5: TRANSFER AND TERMINATION';   
-$lang['license_section5_para1']  = ' This license will automatically terminate upon the disassembly of the system 
-
-                                cited above, unless the system is reassembled in its original configuration in 
-
-                                another location.
+$lang['license_section5_title']  = 'قسم 5: الإنتقال والإنهاء';   
+$lang['license_section5_para1']  = 'هذا الترخيص ينتهى تلقائيا عند تفكيك النظام المذكور بالأعلى، إلا إذا تم إعادة تكوين النظام فى شكله الأصلى فى موقع أخر.
                                 <br>
                                 <br>
-                                (Hosting Castle Web Design LLC) may terminate this license upon notice for
-
-                                failure to comply with any of terms set forth in this Software License. Upon 
-
-                                termination, Customer is obligated to immediately destroy the software, 
-
-                                including all copies and modifications.
+                                قد تقوم ( قلعة الإستضافة لتصميم المواقع LLC ) بإنهاء هذا الترخيص فى حالة عدم التقيد بأى من الشروط المنصوص عليها فى هذا الترخيص. ويلتزم العميل على الفور بتصفية البرنامج بما فى ذلك جميع النسخ والتعديلات.
                                 <br>
                                 <br>
-                                As Customer’s duly authorized representative, I have read and agree to this 
-
-                                License.';
+                                باعتبارى ممثلا مفوضا موثوقا من العميل، لقد قرأت بنود هذا الترخيص وأوافق عليه.';
 
                                 

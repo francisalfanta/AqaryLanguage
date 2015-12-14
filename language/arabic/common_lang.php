@@ -6,12 +6,12 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 //side links - Our Company
-$lang['company_title'] = 'Our Company';
-$lang['company_aboutus'] = 'About Hosting Castle';
-$lang['company_team'] = 'Our Team';
-$lang['company_howwework'] = 'How We Work';
-$lang['company_latestnews'] = 'Latest News';
-$lang['company_careers'] = 'Careers';
-$lang['company_location'] = 'Location';
-$lang['company_contacts'] = 'Contacts';
-$lang['company_address']  = 'Address';
+$lang['company_title'] = 'شركتنا';
+$lang['company_aboutus'] = 'عن قلعة الاستضافة';
+$lang['company_team'] = 'فريقنا';
+$lang['company_howwework'] = 'كيف نعمل';
+$lang['company_latestnews'] = 'أحدث الأخبار';
+$lang['company_careers'] = 'المسيرات المهنية';
+$lang['company_location'] = 'الموقع';
+$lang['company_contacts'] = 'جهات الإتصال';
+$lang['company_address']  = 'العنوان';

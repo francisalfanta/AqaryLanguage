@@ -5,10 +5,10 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['sunday'] = 'Sunday';
-$lang['monday']	= 'Monday';
-$lang['tuesday']= 'Tuesday';
-$lang['wednesday']='Wednesday';
-$lang['thursday'] = 'Thursday';
-$lang['friday']  = 'Friday';
-$lang['saturday']= 'Saturday';
+$lang['sunday'] = 'الأحد';
+$lang['monday']	= 'الإثنين';
+$lang['tuesday']= 'الثلاثاء';
+$lang['wednesday']='الأربعاء';
+$lang['thursday'] = 'الخميس';
+$lang['friday']  = 'الجمعة';
+$lang['saturday']= 'السبت';

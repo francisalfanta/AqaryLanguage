@@ -6,27 +6,27 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 // sidelinks
-$lang['amaal_sidelink_title_product_cat'] = 'Product Categories';
-$lang['online_interior']		= 'Online Interior';
-$lang['medical_clinic']			= 'Medical Clinic';		
-$lang['spa']					= 'Spa';		
-$lang['salon']					= 'Salon';
+$lang['amaal_sidelink_title_product_cat'] = 'أنواع المنتجات';
+$lang['online_interior']		= 'المحتوى الداخلى';
+$lang['medical_clinic']			= 'العيادة الطبية';		
+$lang['spa']					= 'المنتجع';		
+$lang['salon']					= 'الصالون';
 
 //Amaal sidelink
-$lang['amaal_prof_service_sidelink_title'] = 'Amaal Professional Services';
-$lang['amaal_prof_service_sidelink_desc']  = 'From custom designs and vast collection of themes, you can pick which look will best fit your business. With Amaal you can monitor and control your business anytime and anywhere you are. You can post great deals and promote future services to boost your market.';
+$lang['amaal_prof_service_sidelink_title'] = 'خدمات أعمال المهنية';
+$lang['amaal_prof_service_sidelink_desc']  = 'من بين العديد من التصاميم والأشكال يمكنك اختيارأفضل ما تراه مناسبا لعملك. مع أعمال يمكنك متابعة وإدارة عملك في أي وقت ومن أي مكان. يمكنك عقد صفقات كبيرة وتطوير خدمات مستقبلية لتعزيز سوق عملك. وبمساعدة فريقنا المختص يمكننا توفير ما تحتاجه من المميزات والحلول.';
 
 //side tags
-$lang['amaal_sidetag']	   		= 'Tags';
-$lang['service_tag']	  	    = 'Services';
-$lang['portal_tag']	  	        = 'Portal';
-$lang['onlineservice_tag']	    = 'Online Service';
-$lang['greatdeals_tag']	  	    = 'Great Deals';
-$lang['promotions_tag']	        = 'Promotions';
-$lang['purchaseonline_tag']	    = 'Purchase Online';
+$lang['amaal_sidetag']	   		= 'الفئات';
+$lang['service_tag']	  	    = 'الخدمات';
+$lang['portal_tag']	  	        = 'البوابة';
+$lang['onlineservice_tag']	    = 'خدمات فورية';
+$lang['greatdeals_tag']	  	    = 'صفقات مربحة';
+$lang['promotions_tag']	        = 'ترقيات';
+$lang['purchaseonline_tag']	    = 'اشتر عبر الانترنت';
 
 //amaal alert popup
-$lang['amaal_aler_popup_title']   = 'Alert Information';
-$lang['amaal_aler_popup_content'] = 'This product is not yet available for purchase, please contact
+$lang['amaal_aler_popup_title']   = 'معلومات تنبيهية';
+$lang['amaal_aler_popup_content'] = 'هذا المنتج ليس متاحا للشراء بعد ، برجاء تواصل مع
                                       <a href="mailto:info@hostingcastle.com" style="color:blue; font-style:italic;">info@hostingcastle.com</a>
-                                       for more details.</p>';
+                                       لمزيد من المعلومات</p>';

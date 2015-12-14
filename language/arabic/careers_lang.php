@@ -5,22 +5,22 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['careers_title'] = 'Careers';
+$lang['careers_title'] = 'المسيرات المهنية';
 
 // we are currently looking for title
-$lang['we_are_looking_title'] = 'We are currently looking for';
+$lang['we_are_looking_title'] = 'نحن نبحث حاليا عن';
 
 //Requirements
-$lang['req_title'] = 'Requirements';
+$lang['req_title'] = 'المتطلبات';
 
 //benefits
-$lang['benefits_title'] = 'Benefits';
+$lang['benefits_title'] = 'المكتسبات';
 
 //application form
-$lang['aplication_form_title'] = 'Application form';
-$lang['appl_name'] 			   = 'Name';
-$lang['appl_position']		   = 'Applying Position';
-$lang['appl_mob_no']		   = 'Mobile Number';
-$lang['appl_email']			   = 'Email';
-$lang['appl_about']			   = 'About Yourself';
+$lang['aplication_form_title']   = 'استمارة التقديم';
+$lang['appl_name'] 		 = 'الإسم';
+$lang['appl_position']		 = 'العمل المتقدم له';
+$lang['appl_mob_no']		 = 'رقم الهاتف';
+$lang['appl_email']		 = 'البريد الإلكترونى';
+$lang['appl_about']		 = 'أخبرنا عن نفسك';
 
